@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Izaias+%C3%81vila+%7C+Zaza;AI+Engineer+%26+Entrepreneur;Building+the+Future+with+Agents" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=520&height=50&lines=Izaias+%C3%81vila+%7C+Zaza;Software+Architect;Fullstack+%7C+AI+Agents" alt="Typing SVG" />
 
-**Software Architect · AI Agent Builder**
+**Software Architect · Fullstack Developer · AI Agents**
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/izaiasavila/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/izaiasavila)
@@ -12,40 +12,40 @@
 
 ---
 
-### 🤖 AI & Agentic Workflows
-Hoje meu foco é transformar prompts em produção usando arquiteturas de agentes e sistemas autonômos.
-
-- **Modelos:** Gemini 2.0/Pro · Claude 3.5 Sonnet/Opus · GPT-4o · Llama 3
-- **Agentic Frameworks:** CrewAI · LangGraph · Vercel AI SDK · Claude Code
-- **MCP (Model Context Protocol):** Desenvolvimento de servidores customizados para conectar LLMs a ferramentas locais/APIs.
-- **RAG & Vector DBs:** Implementação de busca semântica com `sqlite-vec` (usado no J4RV) e Pinecone.
+### 👋 Sobre
+Cientista da Computação com mais de 20 anos desenvolvendo software — comecei com Delphi, passei mais de 15 anos com Java e hoje trabalho principalmente com TypeScript e IA aplicada.
+Gosto de arquitetura, de sistemas que escalam e de levar IA para o dia a dia real dos negócios.
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,python,tailwind,docker,postgres,git,linux,express,flutter,supabase,vercel,firebase,figma,github,mongodb&perline=9" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izaiasavila&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaiasavila&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
-</div>
+### 💼 O que já construí
+- **ERPs e sistemas de gestão** para varejo e serviços: vendas, estoque, financeiro e fiscal
+- **PDV / frente de caixa** com operação offline e integração fiscal
+- **Plataformas SaaS multi-tenant**: fidelidade e cashback, white-label, onboarding sem deploy
+- **Atendimento e CRM omnichannel**: WhatsApp, central multissetorial, automações de vendas
+- **Checklists, formulários e workflows** no-code, com construtor visual de fluxos
+- **Ordens de serviço e prontuário**, com APIs headless e apps web
+- **Modernização de legado**: migração de sistemas Delphi/desktop para web
 
 ---
 
-### 🚀 Featured Projects
-
-- **J4RV**: Meu agente de IA pessoal/empresarial focado em segurança e automação real.
+### 🤖 IA & Agentes
+- **Claude Code** como ambiente principal de desenvolvimento (agentic coding, subagentes, skills e hooks)
+- **MCP (Model Context Protocol):** servidores customizados conectando LLMs a sistemas, bancos e APIs
+- **Agentes de IA em produção:** framework próprio de agentes com foco em governança, segurança e type-safety
+- **Assistentes de IA integrados a produtos:** atendimento, vendas e apoio à gestão
 
 ---
 
+### 🛠️ Stack
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=izaiasavila&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=7C3AED&fire=22C55E"/>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,vite,java,spring,python,postgres,prisma,tailwind,docker,git,linux&perline=7" />
 </div>
+
+TypeScript · Node.js · React · Next.js · Vite · Java · Spring · Python · Delphi · PostgreSQL · Prisma · Payload CMS · Strapi · Tailwind · Docker · Vitest · Playwright
+
+---
 
 <div align="center">
 
