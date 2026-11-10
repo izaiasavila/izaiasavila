@@ -2,11 +2,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Izaias+%C3%81vila+%7C+Zaza;AI+Engineer+%26+Entrepreneur;Building+the+Future+with+Agents" alt="Typing SVG" />
 
-**Software Architect · AI Agent Builder · Founder at [CurtaCode](https://www.curtacode.com.br)**
+**Software Architect · AI Agent Builder**
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/izaiasavila/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/izaiasavila)
-[![CurtaCode](https://img.shields.io/badge/-CurtaCode-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.curtacode.com.br)
 [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izaiasavila@gmail.com)
 
 </div>
@@ -40,9 +39,7 @@ Hoje meu foco é transformar prompts em produção usando arquiteturas de agente
 
 ### 🚀 Featured Projects
 
-- **[J4RV](http://j4rv.curtacode.com.br/)**: Meu agente de IA pessoal/empresarial focado em segurança e automação real.
-- **[CurtaCode](https://www.curtacode.com.br)**: Software House especializada em soluções de alta performance e IA.
-- **[ERP Curta](https://erp.curtacode.com.br/)**: Ecossistema completo de gestão para empresas modernas.
+- **J4RV**: Meu agente de IA pessoal/empresarial focado em segurança e automação real.
 
 ---
 
